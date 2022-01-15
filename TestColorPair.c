@@ -3,8 +3,6 @@
 #include "GetColorByNumber.h"
 #include "GetNumberByColor.h"
 
-const int MAX_COLORPAIR_NAME_CHARS = 16;
-
 void ColorPairToString(const ColorPair* colorPair, char* buffer) {
     sprintf(buffer, "%s %s",
         MajorColorNames[colorPair->majorColor],
