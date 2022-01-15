@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
-#include <main.h>
+
+#include "main.h"
 
 int numberOfMajorColors =
     sizeof(MajorColorNames) / sizeof(MajorColorNames[0]);
