@@ -1,3 +1,3 @@
 #include "main.h"
 
-ColorPair GetColorFromPairNumber(int pairNumber)
+ColorPair GetColorFromPairNumber(int pairNumber);
