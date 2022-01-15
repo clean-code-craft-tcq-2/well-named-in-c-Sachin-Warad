@@ -1,3 +1,4 @@
+#include "main.h"
 #include "TestColorPair.h"
 #include "GetColorByNumber.h"
 #include "GetNumberByColor.h"
