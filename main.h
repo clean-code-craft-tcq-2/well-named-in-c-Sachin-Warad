@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+#ifndef _MAIN_H
+#define _MAIN_H
+
 enum MajorColor {WHITE, RED, BLACK, YELLOW, VIOLET};
 enum MinorColor {BLUE, ORANGE, GREEN, BROWN, SLATE};
 
@@ -18,3 +21,5 @@ typedef struct {
 
 extern int numberOfMajorColors;
 extern int numberOfMinorColors;
+
+#endif
