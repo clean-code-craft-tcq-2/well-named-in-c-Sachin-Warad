@@ -1,5 +1,4 @@
 #include <assert.h>
-#include "main.h"
 
 void ColorPairToString(const ColorPair* colorPair, char* buffer);
 void testNumberToPair(int pairNumber, enum MajorColor expectedMajor, enum MinorColor expectedMinor);
