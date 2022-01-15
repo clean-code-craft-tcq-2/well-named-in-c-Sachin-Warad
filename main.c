@@ -1,4 +1,5 @@
 #include "main.h"
+#include "TestColorPair.h"
 
 int numberOfMajorColors =
     sizeof(MajorColorNames) / sizeof(MajorColorNames[0]);
