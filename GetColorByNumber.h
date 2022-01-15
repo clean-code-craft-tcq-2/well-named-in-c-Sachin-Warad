@@ -1,3 +1,3 @@
-extern int numberOfMinorColors
+extern int numberOfMinorColors;
 
 ColorPair GetColorFromPairNumber(int pairNumber);
