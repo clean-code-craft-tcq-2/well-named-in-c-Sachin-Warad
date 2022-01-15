@@ -1,4 +1,6 @@
 #include "TestColorPair.h"
+#include "GetColorByNumber.h"
+#include "GetNumberByColor.h"
 
 const int MAX_COLORPAIR_NAME_CHARS = 16;
 
